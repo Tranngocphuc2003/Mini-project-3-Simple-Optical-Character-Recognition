@@ -14,6 +14,11 @@ tensorflow
 pywin32
 ```
 ### Clone the Repository
+Git clone project về máy tính của bạn
+```bash
+    git clone https://github.com/Tranngocphuc2003/Mini-project-3-Simple-Optical-Character-Recognition.git
+    cd Mini-project-3-Simple-Optical-Character-Recognition 
+```
 ### Hướng dẫn sử dụng
 1. Tải các thư viện cần thiết cho dự án bằng lệnh:
 ```bash
@@ -27,7 +32,7 @@ python app.py
 ![App demo](guide.gif)
 ## Cấu trúc dự án
 ```
-vehicle-detection/
+Mini-project-3-Simple-Optical-Character-Recognition/
 ├── app.py                          # File chạy ứng dụng
 ├── mnist_cnn_model.h5              # File trọng số mô hình cnn               
 ├── mnist_softmax_model.npy         # File trong số mô hình hồi quy softmax                      
